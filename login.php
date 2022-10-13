@@ -20,7 +20,7 @@
                     <div id="logout">
                         <?php if(isset($_GET['signout'])){?>
                             <div class="alert alert-success">
-                                <strong>Anda Telah gagal Logout</strong>
+                                <strong>Anda Berhasil Logout</strong>
                             </div>
                         <?php }?>
                     </div>
